@@ -133,6 +133,7 @@ Finally, I want to see the contribution of each feature to the model's predictio
 
 
 In this case, "Online Boarding" has the highest importance score (0.362032), indicating that it contributes the most to the model's predictions. Conversely, features with lower importance scores are less influential. For instance, "Gender" has a very low importance score (0.004321), suggesting it has minimal impact on the model's predictions.
+
 Some Business insights
 
   Short haul passenger have higher returning rate of 54.53% than in medium haul flights (34.17%) followed by long haul flights (11.28%) however the passenger in short haul flight are more dissatisfied with the flight service than medium haul and long haul flights
