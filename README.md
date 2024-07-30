@@ -68,6 +68,7 @@ We can see that minor, young adult and elderly people are neutral or dissatisfie
 
 
 We can see that passenger in short haul flight are more dissatisfied with the flight service than medium haul and long haul flights.
+
 Labeling the categorical variables
 
 I have transformed all the categorical variables in the dataset to numerical features for the processing by machine learning models using fit_transform method of label_encoder.
