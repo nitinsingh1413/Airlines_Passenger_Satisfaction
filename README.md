@@ -106,6 +106,7 @@ Visualizing the feature Vs accuracy chart
 
 
 The number of features with the highest accuracy is 17.
+
 Model Training
 
 The following code block creates an instance of the Decision Tree Classifier from scikit-learn, and then fits the model to the scaled training data.
