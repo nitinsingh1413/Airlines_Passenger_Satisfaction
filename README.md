@@ -36,6 +36,7 @@ So, I have used outlier removal method on three variables 'Flight Distance', 'De
 
 
 After removing the outliers, there are 105722 samples.
+
 Target variable
 
 It is a balanced dataset with 57.253% data 'Neutral or Dissatisfied' and 42.747% 'Satisfied'.
