@@ -137,8 +137,11 @@ In this case, "Online Boarding" has the highest importance score (0.362032), ind
 Some Business insights
 
   Short haul passenger have higher returning rate of 54.53% than in medium haul flights (34.17%) followed by long haul flights (11.28%) however the passenger in short haul flight are more dissatisfied with the flight service than medium haul and long haul flights
+  
   Business class passenger are more satisfied with the flight service whereas economy class passenger are highly dissatisfied followed by Economy Plus class passenger. Further, business class passenger are more loyal than other class passenger.
+  
   Young adult and elderly people are neutral or dissatisfied with the flight service whereas adult are more satisfied. Adult are more likely to return than passenger of other age groups.
+  
   Online boarding has the most significant impact on satisfaction, closely followed by in-flight wifi service and in-flight entertainment. Similarly, demographic factors such as customer type and age also have significant influence on satisfaction levels. Therefore, airlines should tailor their services to target these specific customer demographics.
 
   ![Screenshot 2024-07-29 201211](https://github.com/user-attachments/assets/ba256b67-de0c-4604-af9e-f4162dc5a08d)
