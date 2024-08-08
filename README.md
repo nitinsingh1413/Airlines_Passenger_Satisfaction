@@ -106,7 +106,7 @@ Visualizing the feature Vs accuracy chart
 ![Screenshot 2024-07-29 200226](https://github.com/user-attachments/assets/84d10d23-a073-4b11-a9fc-0c3d8ef0b488)
 
 
-The number of features with the highest accuracy is 17.
+The number of features with the highest accuracy is 22.
 
 ## Model Training
 
@@ -121,11 +121,11 @@ The evaluation of the decision tree classification model on the testing data is 
 ![Screenshot 2024-07-29 201128](https://github.com/user-attachments/assets/d4198f74-12a9-44e6-b54c-c2788e80e6d0)
 
 
-Accuracy Score: It indicates the proportion of correctly classified instances out of the total instances. In this case, it's approximately 94%, meaning 94% of the predictions were correct.
+Accuracy Score: It indicates the proportion of correctly classified instances out of the total instances. In this case, it's approximately 91%, meaning 91% of the predictions were correct.
 
-Precision: It measures the proportion of true positive predictions among all positive predictions. A precision score of 0.95 for class 0 and 0.93 for class 1 indicates that 95% and 93% of the predicted positive instances for each class were correct, respectively.
+Precision: It measures the proportion of true positive predictions among all positive predictions. A precision score of 0.92 for class 0 and 0.89 for class 1 indicates that 92% and 89% of the predicted positive instances for each class were correct, respectively.
 
-Recall (Sensitivity): It measures the proportion of true positive instances that were correctly identified. A recall score of 0.95 for class 0 and 0.93 for class 1 indicates that 95% and 93% of the actual positive instances for each class were correctly classified, respectively.
+Recall (Sensitivity): It measures the proportion of true positive instances that were correctly identified. A recall score of 0.92 for class 0 and 0.90 for class 1 indicates that 92% and 90% of the actual positive instances for each class were correctly classified, respectively.
 
 ### Feature importance
 
@@ -134,7 +134,7 @@ Finally, I want to see the contribution of each feature to the model's predictio
 ![Screenshot 2024-07-29 201201](https://github.com/user-attachments/assets/81aa6db8-a3ca-49af-af27-c8b432f460ad)
 
 
-In this case, "Online Boarding" has the highest importance score (0.362032), indicating that it contributes the most to the model's predictions. Conversely, features with lower importance scores are less influential. For instance, "Gender" has a very low importance score (0.004321), suggesting it has minimal impact on the model's predictions.
+In this case, "Online Boarding" has the highest importance score (0.365620), indicating that it contributes the most to the model's predictions. Conversely, features with lower importance scores are less influential. For instance, "Gender" has a very low importance score (0.003615), suggesting it has minimal impact on the model's predictions.
 
 ## Some Business insights
 
